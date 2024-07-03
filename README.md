@@ -4,6 +4,8 @@
 
 Feel free to explore my repositories and projects. I'm open to collaboration and eager to contribute to exciting projects.</p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=leon-dream1&theme=dark)](https://git.io/streak-stats)
+
 <!--
 **leon-dream1/leon-dream1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
