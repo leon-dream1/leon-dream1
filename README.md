@@ -8,7 +8,7 @@ Feel free to explore my repositories and projects. I'm open to collaboration and
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=leon-dream1&theme=dark)](https://git.io/streak-stats) <hr>
 
-  **Languages and Tools:**  
+  **Technology I Used:**  <br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
