@@ -6,7 +6,7 @@
 Feel free to explore my repositories and projects. I'm open to collaboration and eager to contribute to exciting projects.</p> <hr>
 
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=leon-dream1&theme=dark)](https://git.io/streak-stats) <hr>
+ <p align="center"> [![GitHub Streak](https://streak-stats.demolab.com/?user=leon-dream1&theme=dark)](https://git.io/streak-stats)</p> <hr>
 
 <h1> **Technology I Used:**</h1>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
