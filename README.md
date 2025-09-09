@@ -1,6 +1,3 @@
-
-<h1 align="center">Hi 👋, Welcome to my Profile</h1>
-
 <h1 align="center">Hi 👋, I'm Nahidul Islam</h1>
 <h3 align="center">🚀 Junior Web Developer | MERN Stack | Data Science & ML Enthusiast | Open to Collaboration</h3>
 
@@ -38,6 +35,17 @@ I enjoy building responsive and user-friendly applications, solving real-world p
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
 
+#### 🤖 Machine Learning / Data Science (Learning)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+
+<!-- Custom ML topics -->
+![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-F7DF1E?style=flat-square&logoColor=white)  
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-6f42c1?style=flat-square&logoColor=white)  
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logoColor=white)  
+
 #### 🛠️ Tools & Other Skills  
 - Git & GitHub for version control  
 - REST API design & integration  
@@ -51,7 +59,7 @@ I enjoy building responsive and user-friendly applications, solving real-world p
   <img src="https://github-readme-stats.vercel.app/api?username=leon-dream1&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leon-dream1&layout=compact&theme=dark" alt="Top Languages" />
 </p>
----
+
 Feel free to explore my repositories and projects. I'm open to collaboration and eager to contribute to exciting projects.</p> <hr>
 
 ---
@@ -59,6 +67,7 @@ Feel free to explore my repositories and projects. I'm open to collaboration and
 <!--
 **leon-dream1/leon-dream1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Header](./banner.png)
+<h1 align="center">Hi 👋, Welcome to my Profile</h1>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
