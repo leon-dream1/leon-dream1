@@ -2,9 +2,10 @@
 <!-- <h3 align="center">🚀 Junior Web Developer | MERN Stack | Data Science & ML Enthusiast | Open to Collaboration</h3> -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Junior+Web+Developer+%E2%86%92+MERN+Stack+Developer;%E2%9C%A8+Data+Science+%26+ML+Enthusiast;%F0%9F%9A%80+Open+to+Collaboration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FF5733&center=true&vCenter=true&width=650&lines=👨‍💻+Junior+Web+Developer;💻+MERN+Stack+Developer;📊+Data+Science+%26+🤖+ML+Enthusiast;🚀+Open+to+Collaboration)](https://git.io/typing-svg)
 
 </div>
+
 
 ---
 ### 👩‍💻 About Me  
