@@ -34,11 +34,13 @@ I enjoy building responsive and user-friendly applications, solving real-world p
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) 
 
 #### ⚙️ Backend & Database  
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
 
 #### 🤖 Machine Learning / Data Science (Learning)  
